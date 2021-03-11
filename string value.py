@@ -1,0 +1,2 @@
+user=["preetithakur"]
+print(user.())
